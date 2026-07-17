@@ -1,6 +1,6 @@
 # Enterprise SIEM Implementation & Cyber Threat Detection Lab
 
-**CST8808 — Cyber Incident Response** · April 2025
+Cyber Incident Response** 
 Platform: Microsoft Azure Sentinel · Target: Windows Server 2016 (IIS) · Attacker: Kali Linux · Environment: VMware Workstation
 
 ## Overview
